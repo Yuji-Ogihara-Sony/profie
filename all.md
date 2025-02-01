@@ -1,8 +1,15 @@
 # Profile
 ## 2024 
-* VFX
-* THEMIS (IoT Platform)
-  
+### VFX
+* 大規模農業DX
+* 独自のLPWAを活用しての生産性向上
+* 再生型農業
+* IoT データ収集・管理より後段を開発
+### THEMIS (IoT Platform)
+* IoT Platform
+* AWS Based
+* 日本への移管を完了させる
+* 大規模農業・森林火災検知などいくつものユースケースでの活用・運用  
 ## 2023 
 * 予兆分析システム
 * THEMIS (IoT Platform)
