@@ -81,6 +81,7 @@ Regarding to the software development, I am in charge of almost all the software
 ## 2001-2003
 * NetJuke / Network Audio
   * https://www.sony.jp/products/systemstereo/new_listen.html?srsltid=AfmBOopEUgeUpUMkSb_mhw1ubiFP3SoNVdSMjvwT_O673gpfQZzQ2PIz
+  * https://www.sony.jp/products/Consumer/cocoon/NAV-E900/index.html
 * PlayStation OS /POSIX
   *  
 ## 2000-2001
