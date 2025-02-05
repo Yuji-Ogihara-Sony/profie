@@ -26,6 +26,7 @@
 
 ## 2020
 * LPS 宇宙
+* https://www.sony.com/ja/SonyInfo/News/Press/202112/21-056/?fbclid=IwY2xjawIP0jpleHRuA2FlbQIxMQABHSJ02J3iA_jC3LuRgFA5DYMJWwpVTzwU6pz7Egd6qnwq78zFsPYBZnY9gg_aem_8EyJ_r0E88F0vd8SfH4NTQ
 * Retro-Fitting
   * アナログメータ読み取り
   * 音声での故障検知
